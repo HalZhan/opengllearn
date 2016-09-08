@@ -27,3 +27,9 @@
 *.exe
 *.out
 *.app
+
+.vscode
+src/*/debug
+src/*/*/debug
+src/*/*.VC.db
+src/*/*.VC.VC.opendb
